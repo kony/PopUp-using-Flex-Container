@@ -1,0 +1,47 @@
+{
+    "classname": "ProductGridWc",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "fbd76e7d406a40c0824beced1a27066a",
+                    "paramList": [
+                        {
+                            "name": "params"
+                        }
+                    ],
+                    "propertyIndex": 1,
+                    "propertyKey": "onItemClick",
+                    "pw": {
+                        "displayName": "onItemClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "g4f9f603f0a34efab42b488688822174",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "ListView",
+    "version": "1.0.0"
+}

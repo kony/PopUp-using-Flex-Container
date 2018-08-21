@@ -1,0 +1,25 @@
+function skinsInit() {
+    CopyCopyslFbox0d8acc0db222641 = "CopyCopyslFbox0d8acc0db222641";
+    CopyCopyslFbox0fdfdf4842de44e = "CopyCopyslFbox0fdfdf4842de44e";
+    CopyCopyslFbox4 = "CopyCopyslFbox4";
+    Copyseg0a590b2f7aff747 = "Copyseg0a590b2f7aff747";
+    Copyseg0cbb3b8fed9914e = "Copyseg0cbb3b8fed9914e";
+    CopyslForm08babf18cf8ac42 = "CopyslForm08babf18cf8ac42";
+    CopyslImage005302c75dd054c = "CopyslImage005302c75dd054c";
+    CopysliPhoneSegmentHeader0eb2cf6e11ccc4c = "CopysliPhoneSegmentHeader0eb2cf6e11ccc4c";
+    CopyslLabel0adb02ca3e47642 = "CopyslLabel0adb02ca3e47642";
+    CopyslLabel0bb00f3405ef749 = "CopyslLabel0bb00f3405ef749";
+    CopyslLabel0c4a966efae0d41 = "CopyslLabel0c4a966efae0d41";
+    CopyslTitleBar08ac81342e2c841 = "CopyslTitleBar08ac81342e2c841";
+    flxskin = "flxskin";
+    flxtransskin = "flxtransskin";
+    sknLblStatus = "sknLblStatus";
+    slDynamicNotificationForm = "slDynamicNotificationForm";
+    slFbox = "slFbox";
+    slForm = "slForm";
+    slImage = "slImage";
+    slPopup = "slPopup";
+    slStaticNotificationForm = "slStaticNotificationForm";
+    slTitleBar = "slTitleBar";
+    slWatchForm = "slWatchForm";
+};

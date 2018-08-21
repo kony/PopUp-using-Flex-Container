@@ -1,0 +1,24 @@
+{
+    "AS_UWI_aa16b192154841278a42eafad74819ab": {
+        "id": "AS_UWI_aa16b192154841278a42eafad74819ab",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "params",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "frmPopUpDismiss",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c1b99c2897e0413caf270c2d90ed3a6b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__hfa473e857cf4fb898b93b301598d957",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.getSelectedRowData(params);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
